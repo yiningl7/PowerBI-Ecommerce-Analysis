@@ -16,12 +16,12 @@ Power BI dashboard analysing customer segments and order performance for a ficti
 ## Dashboard
 
 ### Page 1: Customer Segmentation
-![Customer Segmentation](images/01_customer_segmentation.png)
+![Customer Segmentation](images/1_customer_segmentation.png)
 
 Customer composition by age group and gender, spend by spending category, and a map of spend and order frequency by location, filterable by country.
 
 ### Page 2: Order Analysis
-![Order Analysis](images/02_order_analysis.png)
+![Order Analysis](images/2_order_analysis.png)
 
 Order volume and AOV trends by year, quarter and month, order status distribution, and the split between one-time and repeat customers.
 
